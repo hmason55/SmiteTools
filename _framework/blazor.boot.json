@@ -1,7 +1,7 @@
 {
   "entryAssembly": "SmiteTools",
   "resources": {
-    "hash": "sha256-3u61isKZgAvJcnwimLpHY8ldXQM77L/oWoe94x+XlHc=",
+    "hash": "sha256-zJ9PeCYM46yVHJ5opKAaAftv2LhwJWw9jdYqmdyPNig=",
     "runtime": {
       "dotnet.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
@@ -31,8 +31,8 @@
       "MudBlazor.dll": "sha256-FHlHHQJK85llYmvn9BnFtnhtxkulRFvvEFCtfV3xNtA=",
       "MudBlazor.ThemeManager.dll": "sha256-q0jowCEAkyFG4Njov0GzcEMKepLOyZ+qv8Rv1TEm0Bg=",
       "Newtonsoft.Json.dll": "sha256-SBbEJ29XXk2FuAYzoN8urfKUlv4AvcM814Q+YTc73g4=",
-      "SmiteCommon.dll": "sha256-kVf4pAiuVMx+ryQUOUQOBpRH8TXtgHF+T1+R5awWxMU=",
-      "SmiteTools.dll": "sha256-1yEH2+O1XUR6ZHH1qfLjRGKZ0xwXlRBAZ8HDDXvqVZE=",
+      "SmiteCommon.dll": "sha256-c8Y6THBzYpty4leQivdAYrPw9uhWp8pz/96MkXQP0dg=",
+      "SmiteTools.dll": "sha256-CohcUiSTcarnCe2EZw/aidsC/K3UvICDyslkGcJH2lc=",
       "System.Collections.Concurrent.dll": "sha256-yQbUnTBQAMwUifWXxE/+/c2ZJv5xmJyfjvGtA7e+LIQ=",
       "System.Collections.dll": "sha256-XTWnHNl8/gwQD9dix5Rlq2RXAW0RItTgNy6Z7l16xa0=",
       "System.Collections.NonGeneric.dll": "sha256-PK8/o9p/jdbyw8GmN/JgnOBfQKF1ybUnm1FhNZ2NJa0=",
